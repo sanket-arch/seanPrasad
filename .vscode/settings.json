@@ -2,6 +2,7 @@
     "files.associations": {
         "*.ejs": "html",
         "vector": "cpp",
-        "xcomplex": "cpp"
+        "xcomplex": "cpp",
+        "iostream": "cpp"
     }
 }
