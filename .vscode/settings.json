@@ -3,6 +3,7 @@
         "*.ejs": "html",
         "vector": "cpp",
         "xcomplex": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "cmath": "cpp"
     }
 }
